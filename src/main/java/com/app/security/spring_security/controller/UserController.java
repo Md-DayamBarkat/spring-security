@@ -31,10 +31,10 @@ public class UserController {
 		}
 	}
 
-//	@GetMapping("/test")
-//	public String hello() {
-//		return "test API";
-//	}
+	@GetMapping("/test")
+	public String hello() {
+		return "test API";
+	}
 
 	@PreAuthorize("hasAuthority('USER_CREATE')")
 	@PostMapping("/admin/create")
