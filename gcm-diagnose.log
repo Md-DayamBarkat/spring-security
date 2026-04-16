@@ -1,0 +1,192 @@
+﻿Diagnose log at 2026-04-01T10:47:00Z
+
+AppPath: C:\Users\osndl.dayamb\AppData\Local\Programs\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Users\osndl.dayamb\AppData\Local\Programs\Git\mingw64\bin\
+Version: 2.0.886+ea93cb5158
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\osndl.dayamb
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=ANL-102-206
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+PROCESSOR_LEVEL=6
+OneDrive=C:\Users\osndl.dayamb\OneDrive - AGRICULTURE INSURANCE COMPANY OF INDIA LIMITED
+CODEX_THREAD_ID=019d489c-4252-7ba3-84fa-e5642f424504
+RegionCode=APJ
+TMP=C:\Users\OSNDL~1.DAY\AppData\Local\Temp
+BRS=C:\Program Files\HP\Sure Click\servers
+LC_CTYPE=C.UTF-8
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+JABBA_HOME=C:\Users\osndl.dayamb\.jabba
+SystemDrive=C:
+GIT_EXEC_PATH=C:/Users/osndl.dayamb/AppData/Local/Programs/Git/mingw64/libexec/git-core
+TEMP=C:\Users\OSNDL~1.DAY\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\osndl.dayamb\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+M2_HOME=C:\Program Files\apache-maven-3.9.6-bin\apache-maven-3.9.6
+ProgramData=C:\ProgramData
+JAVA_HOME=C:\Program Files\Amazon Corretto\jdk1.8.0_452
+USERDOMAIN=AICOFINDIA
+platformcode=AN
+PROCESSOR_REVISION=9a04
+Path=C:/Users/osndl.dayamb/AppData/Local/Programs/Git/mingw64/libexec/git-core;C:\Users\osndl.dayamb\AppData\Local\Programs\Git\mingw64\bin;C:\Users\osndl.dayamb\AppData\Local\Programs\Git\usr\bin;C:\Users\osndl.dayamb\bin;\\?\C:\Users\osndl.dayamb\AppData\Local\JetBrains\IntelliJIdea2026.1\aia\codex\tmp\arg0\codex-arg0UypAie;C:\Program Files\Amazon Corretto\jdk1.8.0_452\bin;C:\Program Files\Amazon Corretto\jdk17.0.15_6\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\apache-maven-3.9.6-bin\apache-maven-3.9.6\bin;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Program Files\TortoiseSVN\bin;;C:\Program Files\Docker\Docker\resources\bin;c:\Users\osndl.dayamb\AppData\Local\Programs\Trae\bin;C:\Users\osndl.dayamb\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\osndl.dayamb\AppData\Local\Programs\Python\Python311\;C:\Users\osndl.dayamb\AppData\Local\Microsoft\WindowsApps;C:\Users\osndl.dayamb\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\osndl.dayamb\AppData\Local\Programs\Git\cmd;C:\Users\osndl.dayamb\AppData\Roaming\npm;C:\Users\osndl.dayamb\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;;C:\Users\osndl.dayamb\AppData\Local\JetBrains\PyCharm Community Edition 2024.1.4\bin;;C:\Users\osndl.dayamb\AppData\Local\Programs\Windsurf\bin;C:\Users\osndl.dayamb\AppData\Local\Programs\Antigravity\bin;C:\Users\osndl.dayamb\AppData\Local\Programs\cursor\resources\app\bin
+USERDNSDOMAIN=AICOFINDIA.COM
+BRB=C:\Program Files\HP\Sure Click\bin
+NUMBER_OF_PROCESSORS=12
+TMPDIR=C:\Users\OSNDL~1.DAY\AppData\Local\Temp
+PROMPT=$P$G
+CODEX_HOME=C:\Users\osndl.dayamb\AppData\Local\JetBrains\IntelliJIdea2026.1\aia\codex
+ProgramFiles(x86)=C:\Program Files (x86)
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+PLINK_PROTOCOL=ssh
+COLORTERM=truecolor
+ProgramFiles=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+PyCharm Community Edition=C:\Users\osndl.dayamb\AppData\Local\JetBrains\PyCharm Community Edition 2024.1.4\bin;
+OnlineServices=Online Services
+ProgramW6432=C:\Program Files
+HOME=C:\Users\osndl.dayamb
+SystemRoot=C:\WINDOWS
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\SEWA-DC-MS-PDC-
+CODEX_PATH=C:\Users\osndl.dayamb\AppData\Local\JetBrains\IntelliJIdea2026.1\aia\codex\bin\codex-x86_64-pc-windows-msvc.exe
+USERPROFILE=C:\Users\osndl.dayamb
+DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs
+USERDOMAIN_ROAMINGPROFILE=AICOFINDIA
+APPDATA=C:\Users\osndl.dayamb\AppData\Roaming
+HOMEDRIVE=C:
+OneDriveCommercial=C:\Users\osndl.dayamb\OneDrive - AGRICULTURE INSURANCE COMPANY OF INDIA LIMITED
+PSModulePath=C:\Users\osndl.dayamb\OneDrive - AGRICULTURE INSURANCE COMPANY OF INDIA LIMITED\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+USERNAME=osndl.dayamb
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+ChocolateyLastPathUpdate=133640422263150678
+EFC_13240_1592913036=1
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\osndl.dayamb\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\osndl.dayamb\AppData\Local\Temp\4730496f81eb9c5cd636ff4d'... OK
+Reading from temporary file 'C:\Users\osndl.dayamb\AppData\Local\Temp\4730496f81eb9c5cd636ff4d'... OK
+Deleting temporary file 'C:\Users\osndl.dayamb\AppData\Local\Temp\4730496f81eb9c5cd636ff4d'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\osndl.dayamb
+UserDataDirectoryPath: C:\Users\osndl.dayamb\.gcm
+GetCurrentDirectory(): C:\Users\osndl.dayamb\Downloads\spring-security\spring-security
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:53561/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.39.1.windows.1'
+Locating current repository... OK
+Git repository at 'C:/Users/osndl.dayamb/Downloads/spring-security/spring-security/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	http.sslcainfo=C:/Users/osndl.dayamb/AppData/Local/Programs/Git/mingw64/ssl/certs/ca-bundle.crt
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	core.fscache=true
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	core.symlinks=false
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	pull.rebase=false
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	credential.helper=manager
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Users/osndl.dayamb/AppData/Local/Programs/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/osndl.dayamb/.gitconfig	user.name=Md-DayamBarkat
+file:C:/Users/osndl.dayamb/.gitconfig	user.email=barkatdayam1999@gmail.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/Md-DayamBarkat/spring-security.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker not supported.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\osndl.dayamb\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\osndl.dayamb\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
