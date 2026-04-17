@@ -57,8 +57,6 @@ public class SecurityConfig {
 	) throws Exception {
 		http
 			.csrf().disable()
-			.headers().frameOptions().disable()
-			.and()
 			.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
 			.and()
 			.authenticationProvider(authenticationProvider)
@@ -67,7 +65,6 @@ public class SecurityConfig {
 					"/api/public/**",
 					"/api/auth/login",
 					"/api/users/register",
-					"/h2-console/**",
 					"/oauth-demo/public"
 				).permitAll()
 				.anyRequest().authenticated()
